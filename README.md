@@ -260,7 +260,7 @@ If you use this code or models in your research, please cite:
 
 ```bibtex
 @misc{emotion-controlled-generation-2025,
-  author = {Your Name},
+  author = {Vanshaj Raghuvanshi},
   title = {Emotion-Controlled Response Generation via Lightweight Conditioning},
   year = {2025},
   publisher = {GitHub},
