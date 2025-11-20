@@ -233,8 +233,8 @@ Prefix format ("Respond with [emotion] emotion:") provides clearer task instruct
 
 **Available Models:**
 
-- 🎭 `your-username/roberta-emotion-7class` - Emotion classifier (57.8% accuracy)
-- 💬 `your-username/gpt2-emotion-prefix` - Best generator (38.2% emotion accuracy)
+- 🎭 `VanshajR/roberta-emotion-7class` - Emotion classifier (57.8% accuracy)
+- 💬 `VanshajR/gpt2-emotion-prefix` - Best generator (38.2% emotion accuracy)
 
 ### Download & Use
 
@@ -242,8 +242,8 @@ Prefix format ("Respond with [emotion] emotion:") provides clearer task instruct
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Load best model from HuggingFace
-model = AutoModelForCausalLM.from_pretrained("your-username/gpt2-emotion-prefix")
-tokenizer = AutoTokenizer.from_pretrained("your-username/gpt2-emotion-prefix")
+model = AutoModelForCausalLM.from_pretrained("VanshajR/gpt2-emotion-prefix")
+tokenizer = AutoTokenizer.from_pretrained("VanshajR/gpt2-emotion-prefix")
 
 # Generate with emotion control
 prompt = "Respond with happy emotion: How was your day?"
