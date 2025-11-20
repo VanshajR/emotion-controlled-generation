@@ -264,7 +264,7 @@ If you use this code or models in your research, please cite:
   title = {Emotion-Controlled Response Generation via Lightweight Conditioning},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/your-username/emotion-controlled-generation}
+  url = {https://github.com/VanshajR/emotion-controlled-generation}
 }
 ```
 
@@ -303,8 +303,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Author:** Your Name  
 **Email:** your.email@example.com  
-**GitHub:** [@your-username](https://github.com/your-username)  
-**Project Link:** [https://github.com/your-username/emotion-controlled-generation](https://github.com/your-username/emotion-controlled-generation)
+**GitHub:** [@VanshajR](https://github.com/VanshajR)  
+**Project Link:** [https://github.com/VanshajR/emotion-controlled-generation](https://github.com/VanshajR/emotion-controlled-generation)
 
 ---
 
