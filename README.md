@@ -79,6 +79,16 @@ jupyter notebook notebooks/02_train_gpt2_variants.ipynb
 jupyter notebook notebooks/03_evaluation.ipynb
 ```
 
+#### 4. Interactive Demo (Streamlit App)
+```bash
+streamlit run app.py
+```
+
+The demo app features:
+- **Interactive Demo**: Generate emotion-controlled responses in real-time
+- **Model Comparison**: Side-by-side comparison of baseline vs prefix model
+- **Emotion Classifier**: Test the RoBERTa classifier on custom text
+
 ### Generate Emotion-Controlled Responses
 
 ```python
@@ -129,6 +139,7 @@ emotion-controlled-generation/
 │   ├── final_evaluation_plots.png
 │   └── evaluation_comparison_v1_v2.csv
 │
+├── app.py                          # Streamlit demo application
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
 ├── PROJECT_REPORT.md               # Detailed technical report
