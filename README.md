@@ -312,6 +312,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you found it helpful!**
 
-Made with ❤️ for Emotion-Aware AI
-
+And this project was named Auralis btw (not the best of names for sure)
 </div>
