@@ -1,0 +1,5 @@
+Model,Emotion_Accuracy
+Baseline,24.693877551020407
+Prefix-Small,35.318275154004105
+Token-Medium,30.265848670756647
+Prefix-Medium,31.416837782340863
