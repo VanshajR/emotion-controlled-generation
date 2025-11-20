@@ -301,8 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Author:** Your Name  
-**Email:** your.email@example.com  
+**Author:** Vanshaj Raghuvanshi  
+**Email:** vanshajraghuvanshi@gmail.com  
 **GitHub:** [@VanshajR](https://github.com/VanshajR)  
 **Project Link:** [https://github.com/VanshajR/emotion-controlled-generation](https://github.com/VanshajR/emotion-controlled-generation)
 
