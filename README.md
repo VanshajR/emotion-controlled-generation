@@ -313,4 +313,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repo if you found it helpful!**
 
 And this project was named Auralis btw (not the best of names for sure)
+
+Also, do NOT attempt to run the model training locally if you are short on time/hardware/storage
+
+(Yes I trained multiple models that took hours locally, do not recommend)
+
+<!-- First image (bigger) -->
+<img 
+  src="https://res.cloudinary.com/dnciaoigz/image/upload/v1763639605/Screenshot_2025-11-19_023145_asppot.png" 
+  alt="Screenshot 1" 
+  width="750"
+/>
+
+<br><br> <!-- Gap between images -->
+
+<!-- Second image (smaller) -->
+<img 
+  src="https://res.cloudinary.com/dnciaoigz/image/upload/v1763639605/Screenshot_2025-11-20_172244_xx1dnn.png" 
+  alt="Screenshot 2" 
+  width="350"
+/>
+
 </div>
+
+
