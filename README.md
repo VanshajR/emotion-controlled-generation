@@ -52,7 +52,7 @@ We fine-tune a RoBERTa emotion classifier for automatic evaluation and train GPT
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/emotion-controlled-generation.git
+git clone https://github.com/VanshajR/emotion-controlled-generation.git
 cd emotion-controlled-generation
 
 pip install -r requirements.txt
@@ -85,8 +85,8 @@ jupyter notebook notebooks/03_evaluation.ipynb
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Load best model (Prefix-Small, 38.2% accuracy)
-model = AutoModelForCausalLM.from_pretrained("your-username/gpt2-emotion-prefix")
-tokenizer = AutoTokenizer.from_pretrained("your-username/gpt2-emotion-prefix")
+model = AutoModelForCausalLM.from_pretrained("VanshajR/gpt2-emotion-prefix")
+tokenizer = AutoTokenizer.from_pretrained("VanshajR/gpt2-emotion-prefix")
 
 # Generate happy response
 prompt = "Respond with happy emotion: How was your day?"
@@ -136,8 +136,8 @@ emotion-controlled-generation/
 ```
 
 **Note:** Model checkpoints are hosted on HuggingFace Hub:
-- Emotion Classifier: `your-username/roberta-emotion-7class`
-- Best Generator: `your-username/gpt2-emotion-prefix` (38.2% accuracy)
+- 🤗 Emotion Classifier: [`VanshajR/roberta-emotion-7class`](https://huggingface.co/VanshajR/roberta-emotion-7class) (57.8% accuracy)
+- 🤗 Best Generator: [`VanshajR/gpt2-emotion-prefix`](https://huggingface.co/VanshajR/gpt2-emotion-prefix) (38.2% accuracy)
 
 ---
 
