@@ -2,7 +2,11 @@
 
 **University Generative AI Project**  
 **Date:** November 2025  
-**GitHub Repository:** [github.com/your-username/emotion-controlled-generation](https://github.com/your-username/emotion-controlled-generation)
+**Author:** Vanshaj R  
+**GitHub Repository:** [github.com/VanshajR/emotion-controlled-generation](https://github.com/VanshajR/emotion-controlled-generation)  
+**HuggingFace Models:** 
+- [RoBERTa Emotion Classifier](https://huggingface.co/VanshajR/roberta-emotion-7class)
+- [GPT-2 Emotion-Conditioned](https://huggingface.co/VanshajR/gpt2-emotion-prefix)
 
 ---
 
