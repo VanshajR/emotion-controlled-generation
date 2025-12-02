@@ -295,7 +295,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Datasets:** Google Research (GoEmotions), Yanran Li et al. (DailyDialog)
 - **Libraries:** Hugging Face Transformers, PyTorch, PEFT
-- **Infrastructure:** NVIDIA for GPU compute
+- **Infrastructure:** NVIDIA for the RTX 4060 Mobile GPU in my laptop I guess 
 
 ---
 
